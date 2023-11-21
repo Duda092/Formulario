@@ -1,0 +1,28 @@
+.sessao{
+    max-width: 500px;
+    margin: 50px auto;
+    background-color: mediumslateblue;
+    border-radius: 25px;
+}
+
+.formulario {
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    padding: 30px;
+
+    background-color: rgb(202, 169, 255);
+    border-radius: 25px;
+}
+
+input {
+    color: blueviolet;
+    border-style: none;
+    outline-color: blueviolet;
+    margin: 5px 0;
+}
+
+button{
+    background-color: mediumslateblue;
+}
+
